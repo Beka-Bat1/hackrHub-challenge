@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`processData consolidates the data correctly for gender female and minHeight 120 1`] = `
+Array [
+  Object {
+    "height": "165",
+    "mass": "75",
+    "name": "Beru Whitesun lars",
+  },
+  Object {
+    "height": "150",
+    "mass": "49",
+    "name": "Leia Organa",
+  },
+]
+`;
+
+exports[`processData consolidates the data correctly for gender female and minHeight 160 1`] = `
+Array [
+  Object {
+    "height": "165",
+    "mass": "75",
+    "name": "Beru Whitesun lars",
+  },
+]
+`;
+
+exports[`processData consolidates the data correctly for gender male and minHeight 130 1`] = `
+Array [
+  Object {
+    "height": "202",
+    "mass": "136",
+    "name": "Darth Vader",
+  },
+  Object {
+    "height": "178",
+    "mass": "120",
+    "name": "Owen Lars",
+  },
+  Object {
+    "height": "183",
+    "mass": "84",
+    "name": "Biggs Darklighter",
+  },
+  Object {
+    "height": "182",
+    "mass": "77",
+    "name": "Obi-Wan Kenobi",
+  },
+  Object {
+    "height": "172",
+    "mass": "77",
+    "name": "Luke Skywalker",
+  },
+]
+`;
+
+exports[`processData consolidates the data correctly for gender male and minHeight 180 1`] = `
+Array [
+  Object {
+    "height": "202",
+    "mass": "136",
+    "name": "Darth Vader",
+  },
+  Object {
+    "height": "183",
+    "mass": "84",
+    "name": "Biggs Darklighter",
+  },
+  Object {
+    "height": "182",
+    "mass": "77",
+    "name": "Obi-Wan Kenobi",
+  },
+]
+`;

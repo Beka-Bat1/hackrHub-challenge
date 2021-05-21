@@ -1,3 +1,5 @@
+#Down below is show what we were supposed to do in challenge // Completed 
+
 Before you begin **please make sure you read this readme file entirely** and that you understand everything. If there's anything that you don't understand, please don't hesitate to reach out and ask.
 
 ## Instructions
